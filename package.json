@@ -1,0 +1,19 @@
+{
+  "name": "node_express_basics",
+  "version": "1.0.0",
+  "description": "A Hello World example with Node and Express",
+  "main": "server.js",
+  "keywords": [
+    "Node",
+    "Express",
+    "Hello",
+    "World",
+    "Getting",
+    "Started"
+  ],
+  "author": "Hans van Arken",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
